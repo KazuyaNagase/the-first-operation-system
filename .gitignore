@@ -68,4 +68,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+*.bin
+*.o
+*.sys
+*.img
 
